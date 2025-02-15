@@ -18,4 +18,4 @@ RUN mkdir /Filesharing
 WORKDIR /Filesharing
 
 # Running MessageSearchBot
-CMD ["python3", "bot.py"]
+CMD ["python", "bot.py"]
